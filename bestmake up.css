@@ -1,0 +1,33 @@
+.text {
+    float: right;
+}
+
+.header {
+    padding: 15px;
+    background: rgb(0, 255, 200);
+    color: white;
+    font-size: 10px;
+}
+
+.space {
+    word-spacing: 60px;
+}
+
+li {
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+    border-width: 6px;
+    border-color: olive;
+    border-style: ridge;
+    border-radius: 10px;
+}
+
+.column1 {
+    float: left;
+    width: 24%;
+    height: 100%;
+    padding: 10px;
+}
