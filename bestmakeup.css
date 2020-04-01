@@ -3,10 +3,10 @@
 }
 
 .header {
-    padding: 15px;
-    background: rgb(0, 255, 200);
+    padding: 25px;
+    background: rebeccapurple;
     color: white;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 .space {
@@ -20,7 +20,7 @@ li {
 h1 {
     text-align: center;
     border-width: 6px;
-    border-color: olive;
+    border-color: rgb(184, 152, 197);
     border-style: ridge;
     border-radius: 10px;
 }
@@ -30,4 +30,17 @@ h1 {
     width: 24%;
     height: 100%;
     padding: 10px;
+}
+
+.column2 {
+    float: right;
+    width: 74%;
+    position: fixed;
+    text-orientation: 120px;
+    right: 0;
+}
+
+img {
+    width: 500px;
+    border: solid 10px purple
 }
